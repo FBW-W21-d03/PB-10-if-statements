@@ -1,4 +1,4 @@
-myFalse = new Boolean(false);   // initialer Wert von false
+/* myFalse = new Boolean(false);   // initialer Wert von false
 g = Boolean(myFalse);       // initialer Wert von  true
 myString = new String('guten tag'); // string objekt
 s = Boolean(myString);      //  initialer Wert von true
@@ -20,3 +20,11 @@ let bfalseString = new Boolean('false');
 let bSuLin = new Boolean('Su Lin');
 let bArrayProto = new Boolean([]);
 let bObjProto = new Boolean({});
+*/
+// Aufgabe
+
+
+let loggedIn = true; 
+if(loggedIn){console.log("Super du bist drin"); 
+}  else { 
+console.log("Melde dich an");} 
